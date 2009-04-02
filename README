@@ -1,0 +1,6 @@
+POE::Component::Server::Discard
+===============================
+
+A very simple component to implement RFC 863.
+
+>;o)
