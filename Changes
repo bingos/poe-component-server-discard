@@ -1,6 +1,9 @@
 POE::Component::Server::Discard
 ===============================
 
+1.14	Thu May 21 11:06:40 BST 2009
+	- Makefile.PL: auto_license, auto_provides and githubmeta
+
 1.12	Tue Jul  1 09:27:37 BST 2008
 	- Added LICENSE information.
 
